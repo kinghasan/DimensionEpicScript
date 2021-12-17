@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskConfig>
+  <TaskDesc id="10001" name="新手引导(一)" res="Noob_1" content="从酒馆雇佣想要的英雄" remarks="" targetCount="1" parameters="1" lastTask="10002" />
+  <TaskDesc id="10002" name="新手引导(二)" res="Noob_2" content="在队伍功能中组建好队形" remarks="" targetCount="1" parameters="1" lastTask="10003" />
+  <TaskDesc id="10003" name="新手引导(三)" res="Noob_3" content="开始远征" remarks="" targetCount="1" parameters="1" lastTask="" />
+</TaskConfig>

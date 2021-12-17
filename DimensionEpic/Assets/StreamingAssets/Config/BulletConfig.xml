@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BulletConfig>
+  <BulletDesc id="1" name="箭矢" type="1" res="Arrow" speed="7" />
+  <BulletDesc id="2" name="炮弹" type="1" res="Shell" speed="5" />
+  <BulletDesc id="3" name="毒箭" type="1" res="VenomArrow" speed="7" />
+</BulletConfig>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 每个类型的第一条为该装备的基础属性 -->
+<RandomAttributeConfig>
+  <RandomAttributeDesc type="Weapon"  attribute="atk" level1="10-15" level2="25-35" level3="40-65" level4="70-100" level5="100-150" level6="150-200" />
+  <RandomAttributeDesc type="Weapon"  attribute="Patk" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Weapon"  attribute="spd" level1="2-4" level2="3-6" level3="4-8" level4="5-10" level5="7-12" level6="9-15" />
+  <RandomAttributeDesc type="Weapon"  attribute="crit" level1="3-5" level2="4-7" level3="5-9" level4="7-12" level5="10-15" level6="15-20" />
+  <RandomAttributeDesc type="Weapon"  attribute="critDmg" level1="10-15" level2="13-19" level3="15-23" level4="18-28" level5="20-35" level6="30-50" />
+  <RandomAttributeDesc type="Head"  attribute="hp" level1="30-50" level2="80-120" level3="140-200" level4="250-350" level5="400-500" level6="500-650" />
+  <RandomAttributeDesc type="Head"  attribute="Php" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Head"  attribute="def" level1="10-15" level2="15-20" level3="20-30" level4="30-45" level5="50-70" level6="75-100" />
+  <RandomAttributeDesc type="Head"  attribute="Pdef" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Head"  attribute="spd" level1="2-4" level2="3-6" level3="4-8" level4="5-10" level5="7-12" level6="9-15" />
+  <RandomAttributeDesc type="Head"  attribute="crit" level1="3-5" level2="4-7" level3="5-9" level4="7-12" level5="10-15" level6="15-20" />
+  <RandomAttributeDesc type="Head"  attribute="critDmg" level1="10-15" level2="13-19" level3="15-23" level4="18-28" level5="20-35" level6="30-50" />
+  <RandomAttributeDesc type="Chest"  attribute="hp" level1="30-50" level2="80-120" level3="140-200" level4="250-350" level5="400-500" level6="500-650" />
+  <RandomAttributeDesc type="Chest"  attribute="Php" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Chest"  attribute="def" level1="10-15" level2="15-20" level3="20-30" level4="30-45" level5="50-70" level6="75-100" />
+  <RandomAttributeDesc type="Chest"  attribute="Pdef" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Chest"  attribute="spd" level1="2-4" level2="3-6" level3="4-8" level4="5-10" level5="7-12" level6="9-15" />
+  <RandomAttributeDesc type="Chest"  attribute="crit" level1="3-5" level2="4-7" level3="5-9" level4="7-12" level5="10-15" level6="15-20" />
+  <RandomAttributeDesc type="Chest"  attribute="critDmg" level1="10-15" level2="13-19" level3="15-23" level4="18-28" level5="20-35" level6="30-50" />
+  <RandomAttributeDesc type="Foot"  attribute="hp" level1="30-50" level2="80-120" level3="140-200" level4="250-350" level5="400-500" level6="500-650" />
+  <RandomAttributeDesc type="Foot"  attribute="Php" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Foot"  attribute="def" level1="10-15" level2="15-20" level3="20-30" level4="30-45" level5="50-70" level6="75-100" />
+  <RandomAttributeDesc type="Foot"  attribute="Pdef" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Foot"  attribute="spd" level1="2-4" level2="3-6" level3="4-8" level4="5-10" level5="7-12" level6="9-15" />
+  <RandomAttributeDesc type="Foot"  attribute="crit" level1="3-5" level2="4-7" level3="5-9" level4="7-12" level5="10-15" level6="15-20" />
+  <RandomAttributeDesc type="Foot"  attribute="critDmg" level1="10-15" level2="13-19" level3="15-23" level4="18-28" level5="20-35" level6="30-50" />
+  <RandomAttributeDesc type="Hand"  attribute="hp" level1="30-50" level2="80-120" level3="140-200" level4="250-350" level5="400-500" level6="500-650" />
+  <RandomAttributeDesc type="Hand"  attribute="Php" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Hand"  attribute="Patk" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Hand"  attribute="atk" level1="10-15" level2="25-35" level3="40-65" level4="70-100" level5="100-150" level6="150-200" />
+  <RandomAttributeDesc type="Hand"  attribute="def" level1="10-15" level2="15-20" level3="20-30" level4="30-45" level5="50-70" level6="75-100" />
+  <RandomAttributeDesc type="Hand"  attribute="Pdef" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Hand"  attribute="spd" level1="2-4" level2="3-6" level3="4-8" level4="5-10" level5="7-12" level6="9-15" />
+  <RandomAttributeDesc type="Hand"  attribute="crit" level1="3-5" level2="4-7" level3="5-9" level4="7-12" level5="10-15" level6="15-20" />
+  <RandomAttributeDesc type="Hand"  attribute="critDmg" level1="10-15" level2="13-19" level3="15-23" level4="18-28" level5="20-35" level6="30-50" />
+  <RandomAttributeDesc type="Necklace"  attribute="hp" level1="30-50" level2="80-120" level3="140-200" level4="250-350" level5="400-500" level6="500-650" />
+  <RandomAttributeDesc type="Necklace"  attribute="Php" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Necklace"  attribute="Patk" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Necklace"  attribute="atk" level1="10-15" level2="25-35" level3="40-65" level4="70-100" level5="100-150" level6="150-200" />
+  <RandomAttributeDesc type="Necklace"  attribute="def" level1="10-15" level2="15-20" level3="20-30" level4="30-45" level5="50-70" level6="75-100" />
+  <RandomAttributeDesc type="Necklace"  attribute="Pdef" level1="1-3" level2="2-4" level3="3-6" level4="4-8" level5="5-10" level6="7-15" />
+  <RandomAttributeDesc type="Necklace"  attribute="spd" level1="2-4" level2="3-6" level3="4-8" level4="5-10" level5="7-12" level6="9-15" />
+  <RandomAttributeDesc type="Necklace"  attribute="crit" level1="3-5" level2="4-7" level3="5-9" level4="7-12" level5="10-15" level6="15-20" />
+  <RandomAttributeDesc type="Necklace"  attribute="critDmg" level1="10-15" level2="13-19" level3="15-23" level4="18-28" level5="20-35" level6="30-50" />
+</RandomAttributeConfig>

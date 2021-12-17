@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemFormulaConfig>
+  <ItemFormulaDesc id="10001" name="剑" res="" itemId="10001" material="1:5" message="制作剑的配方" />
+  <ItemFormulaDesc id="10002" name="弓" res="" itemId="10002" material="1:5"  message="制作弓的配方" />
+  <ItemFormulaDesc id="10003" name="法杖" res="" itemId="10003" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10004" name="盔甲" res="" itemId="10004" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10005" name="法衣" res="" itemId="10005" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10006" name="皮甲" res="" itemId="10006" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10007" name="头盔" res="" itemId="10007" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10008" name="魔法帽" res="" itemId="10008" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10009" name="兜帽" res="" itemId="10009" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10010" name="铁靴" res="" itemId="10010" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10011" name="长袍" res="" itemId="10011" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10012" name="皮裤" res="" itemId="10012" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10013" name="铁护手" res="" itemId="10013" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10014" name="魔法手套" res="" itemId="10014" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10015" name="皮手套" res="" itemId="10015" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10016" name="力量项链" res="" itemId="10016" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10017" name="灵敏项链" res="" itemId="10017" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10018" name="魔法项链" res="" itemId="10018" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10019" name="战锤" res="" itemId="10019" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10020" name="匕首" res="" itemId="10020" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10021" name="魔法书" res="" itemId="10021" material="1:5"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10022" name="皇冠" res="" itemId="10022" material="10004:1"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10023" name="狼牙项链" res="" itemId="10023" material="10004:1"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10024" name="粘液球" res="" itemId="10024" material="10004:1"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10025" name="生命种子" res="" itemId="10025" material="10004:1"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10026" name="森林法杖" res="" itemId="10026" material="10004:1"  message="制作法杖的配方" />
+  <ItemFormulaDesc id="10027" name="精灵花环" res="" itemId="10027" material="10004:1"  message="制作法杖的配方" />
+</ItemFormulaConfig>

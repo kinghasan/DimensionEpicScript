@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MaterialConfig>
+  <MaterialDesc id="1" name="普通品质材料" quality="1" res="" message="普通品质材料" />
+  <MaterialDesc id="2" name="稀有品质材料" quality="2" res="" message="稀有品质材料" />
+  <MaterialDesc id="3" name="史诗品质材料" quality="3" res="" message="史诗品质材料" />
+  <MaterialDesc id="4" name="传说品质材料" quality="4" res="" message="传说品质材料" />
+  <MaterialDesc id="10001" name="木头" quality="1" res="Wood" message="一块木头" />
+  <MaterialDesc id="10002" name="石头" quality="1" res="Stone" message="一块石头" />
+  <MaterialDesc id="10003" name="草" quality="1" res="Grass" message="一束草" />
+  <MaterialDesc id="10004" name="无限之力" quality="4" res="EndlessPower" message="制作传说装备时需要的材料" />
+</MaterialConfig>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EnemyConfig>
+<<<<<<< HEAD
+  <EnemyDesc id="10111" name="绿史莱姆" type ="1" ability="10008|0|0" res="GreenSlime" exp="50" attack="25" defense="50" speed="100" health="100" />
+  <EnemyDesc id="10112" name="绿史莱姆" type ="1" ability="10008|10015|0" res="GreenSlime" exp="100" attack="55" defense="120" speed="100" health="250" />
+  <EnemyDesc id="10113" name="绿史莱姆" type ="1" ability="10008|10015|0" res="GreenSlime" exp="200" attack="105" defense="200" speed="105" health="550" />
+  <EnemyDesc id="10114" name="绿史莱姆" type ="1" ability="10008|10015|0" res="GreenSlime" exp="350" attack="165" defense="300" speed="110" health="850" />
+  <EnemyDesc id="10115" name="绿史莱姆" type ="1" ability="10008|10015|0" res="GreenSlime" exp="600" attack="245" defense="450" speed="115" health="1250" />
+  <EnemyDesc id="10121" name="狼" type ="1" ability="10007|0|0" res="Wolf" exp="50" attack="25" defense="25" speed="110" health="80" />
+  <EnemyDesc id="10122" name="狼" type ="1" ability="10007|0|0" res="Wolf" exp="100" attack="75" defense="75" speed="113" health="180" />
+  <EnemyDesc id="10123" name="狼" type ="1" ability="10007|10014|0" res="Wolf" exp="200" attack="125" defense="145" speed="118" health="300" />
+  <EnemyDesc id="10124" name="狼" type ="1" ability="10007|0|0" res="Wolf" exp="50" attack="205" defense="205" speed="125" health="500" />
+  <EnemyDesc id="10125" name="狼" type ="1" ability="10007|0|0" res="Wolf" exp="50" attack="320" defense="300" speed="135" health="750" />
+  <EnemyDesc id="10131" name="史莱姆王" type ="1" ability="10008|0|10018" res="GreenSlimeKing" exp="200" attack="50" defense="100" speed="100" health="800" />
+  <EnemyDesc id="10132" name="史莱姆王" type ="1" ability="10008|0|10018" res="GreenSlimeKing" exp="500" attack="120" defense="300" speed="105" health="2000" />
+  <EnemyDesc id="10133" name="史莱姆王" type ="1" ability="10008|0|10018" res="GreenSlimeKing" exp="1500" attack="200" defense="500" speed="110" health="5000" />
+  <EnemyDesc id="10134" name="史莱姆王" type ="1" ability="10008|0|10018" res="GreenSlimeKing" exp="3500" attack="400" defense="750" speed="115" health="9000" />
+  <EnemyDesc id="10135" name="史莱姆王" type ="1" ability="10008|0|10018" res="GreenSlimeKing" exp="7500" attack="700" defense="1400" speed="120" health="14000" />
+  <EnemyDesc id="10211" name="树精" type ="1" ability="10009|0|0" res="Treespirit" exp="50" attack="20" defense="50" speed="100" health="100" />
+  <EnemyDesc id="10212" name="树精" type ="1" ability="10009|0|0" res="Treespirit" exp="100" attack="45" defense="140" speed="100" health="200" />
+  <EnemyDesc id="10213" name="树精" type ="1" ability="10009|10017|0" res="Treespirit" exp="200" attack="75" defense="220" speed="100" health="400" />
+  <EnemyDesc id="10214" name="树精" type ="1" ability="10009|10017|0" res="Treespirit" exp="350" attack="120" defense="340" speed="100" health="700" />
+  <EnemyDesc id="10215" name="树精" type ="1" ability="10009|10017|0" res="Treespirit" exp="600" attack="180" defense="500" speed="100" health="1100" />
+  <EnemyDesc id="10221" name="小精灵" type ="1" ability="10010|0|0" res="Elf" exp="50" attack="35" defense="20" speed="110" health="80" />
+  <EnemyDesc id="10222" name="小精灵" type ="1" ability="10010|0|0" res="Elf" exp="100" attack="70" defense="80" speed="115" health="140" />
+  <EnemyDesc id="10223" name="小精灵" type ="1" ability="10010|10006|0" res="Elf" exp="200" attack="120" defense="150" speed="120" health="280" />
+  <EnemyDesc id="10224" name="小精灵" type ="1" ability="10010|10006|0" res="Elf" exp="350" attack="220" defense="230" speed="130" health="480" />
+  <EnemyDesc id="10225" name="小精灵" type ="1" ability="10010|10006|0" res="Elf" exp="600" attack="350" defense="300" speed="140" health="880" />
+  <EnemyDesc id="10231" name="树精长老" type ="1" ability="10019|10017|0" res="TreespiritElder" exp="200" attack="40" defense="80" speed="100" health="1000" />
+  <EnemyDesc id="10232" name="树精长老" type ="1" ability="10019|10017|0" res="TreespiritElder" exp="500" attack="100" defense="250" speed="105" health="2500" />
+  <EnemyDesc id="10233" name="树精长老" type ="1" ability="10019|10017|0" res="TreespiritElder" exp="1500" attack="180" defense="400" speed="110" health="600" />
+  <EnemyDesc id="10234" name="树精长老" type ="1" ability="10019|10017|10020" res="TreespiritElder" exp="3500" attack="350" defense="650" speed="115" health="13000" />
+  <EnemyDesc id="10235" name="树精长老" type ="1" ability="10019|10017|10020" res="TreespiritElder" exp="7500" attack="600" defense="1200" speed="120" health="18000" />
+  <EnemyDesc id="20111" name="黑骑士" type ="1" ability="10008|0|0" res="BlackKnight" exp="0" attack="1000" defense="2500" speed="150" health="20000" />
+=======
+  <EnemyDesc id="10001" name="半人马" remark="Lv1" type ="1" ability="10000|0|0" res="Centaur" exp="50" attack="25" speed="100" health="100" />
+  <EnemyDesc id="10002" name="狼" remark="Lv1" type ="1" ability="10004|0|0" res="Wolf" exp="50" attack="25" speed="110" health="80" />
+  <EnemyDesc id="10501" name="半人马" remark="Lv5" type ="1" ability="10000|0|0" res="Centaur" exp="100" attack="35" speed="100" health="180" />
+  <EnemyDesc id="10502" name="狼" remark="Lv5" type ="1" ability="10004|0|0" res="Wolf" exp="100" attack="40" speed="110" health="150" />
+>>>>>>> 609bbe983ea706e17ce475795ad149ffb8a26915
+</EnemyConfig>

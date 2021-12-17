@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AbilityConfig>
+<<<<<<< HEAD
+  <AbilityDesc id="10000" name="打击" res="Hit" condition="" isPassive="0" attribute="1" message="对站位最前的一位敌人造成伤害" cd="0" initCD="0" />
+  <AbilityDesc id="10001" name="挥砍" res="Slash" condition="" isPassive="0" attribute="0.8" message="对站位最前的竖排敌人造成伤害" cd="0" initCD="0" />
+  <AbilityDesc id="10002" name="射箭" res="Arrow" condition="" isPassive="0" attribute="1.5" message="对站位最前的一位敌人造成伤害" cd="0" initCD="0" />
+  <AbilityDesc id="10003" name="火球" res="FireBall" condition="" isPassive="0" attribute="1.3|0.2|3" message="对站位最前的一位敌人造成伤害，并且有20%概率点燃敌人3回合" cd="0" initCD="0" />
+  <AbilityDesc id="10004" name="重击" res="Bash" condition="" isPassive="0" attribute="1|1|1" message="对站位最前的一位敌人造成伤害，并且有20%概率眩晕敌人1回合" cd="0" initCD="0" />
+  <AbilityDesc id="10005" name="刺击" res="Thorn" condition="" isPassive="0" attribute="1.3|0.2|2" message="对站位最前的一位敌人造成伤害，并且有20%概率添加2回合的流血" cd="0" initCD="0" />
+  <AbilityDesc id="10006" name="治疗" res="Treat" condition="health" isPassive="0" attribute="0.8" message="治疗生命值最低的一位队友" cd="0" initCD="0" />
+  <AbilityDesc id="10007" name="撕咬" res="Bite" condition="" isPassive="0" attribute="1.2" message="对站位最前的一位敌人造成伤害" cd="0" initCD="0" />
+  <AbilityDesc id="10008" name="撞击(史莱姆)" condition="" res="Hit_Slime" isPassive="0" attribute="1.1" message="对站位最前的一位敌人造成伤害" cd="0" initCD="0" />
+  <AbilityDesc id="10009" name="木刺" condition="" res="WoodThorn" isPassive="0" attribute="0.9" message="对一行的敌人造成伤害" cd="0" initCD="0" />
+  <AbilityDesc id="10010" name="飞弹" condition="" res="Missile" isPassive="0" attribute="1.3" message="对站位最前的一位敌人造成伤害" cd="0" initCD="0" />
+  <AbilityDesc id="10011" name="血刃" condition="" res="BloodDagger" isPassive="1" attribute="0.2|2" message="造成伤害时，有20%概率添加造成流血" cd="0" initCD="0" />
+  <AbilityDesc id="10012" name="火刃" condition="" res="FireDagger" isPassive="1" attribute="0.2|2" message="造成伤害时，有20%概率添加造成燃烧" cd="0" initCD="0" />
+  <AbilityDesc id="10013" name="毒刃" condition="" res="PoisonDagger" isPassive="1" attribute="0.2|2" message="造成伤害时，有20%概率添加造成中毒" cd="0" initCD="0" />
+  <AbilityDesc id="10014" name="利爪" condition="" res="SharpClaw" isPassive="1" attribute="0.5" message="暴击率提升" cd="0" initCD="0" />
+  <AbilityDesc id="10015" name="史莱姆粘液" condition="" res="SlimeMucus" isPassive="1" attribute="0.2|1" message="受到攻击时，使攻击者减速" cd="0" initCD="0" />
+  <AbilityDesc id="10016" name="治疗(精灵)" condition="health" res="Treat_Elf" isPassive="0" attribute="0.7" message="治疗生命值最低的一位队友" cd="2" initCD="0" />
+  <AbilityDesc id="10017" name="尖刺树甲" condition="" res="SpikedArmor" isPassive="1" attribute="0.3" message="受到攻击时，使攻击者受到伤害" cd="0" initCD="0" />
+  <AbilityDesc id="10018" name="召唤史莱姆" condition="" res="CallSlime" isPassive="0" attribute="1" message="召唤一只史莱姆" cd="3" initCD="0" />
+  <AbilityDesc id="10019" name="缠绕" condition="" res="Twining" isPassive="0" attribute="1|1" message="对一个随机目标造成伤害并眩晕" cd="0" initCD="0" />
+  <AbilityDesc id="10020" name="治愈树甲" condition="" res="HealthArmor" isPassive="1" attribute="0.1" message="回合开始时回复生命值" cd="0" initCD="0" />
+  <AbilityDesc id="10021" name="统帅之力" condition="" res="CommanderPower" isPassive="1" attribute="0.2" message="增加所有队友的攻击力" cd="0" initCD="0" />
+  <AbilityDesc id="10022" name="狼魂" condition="" res="WolfSoul" isPassive="1" attribute="0.5" message="增加自身的暴击率" cd="0" initCD="0" />
+  <AbilityDesc id="10023" name="酸液" condition="" res="AcidSolution" isPassive="0" attribute="0.5|0.2|1" message="攻击所有敌人并减少敌人护甲" cd="0" initCD="0" />
+  <AbilityDesc id="10024" name="生命之力" condition="" res="LifePower" isPassive="1" attribute="0.1" message="回合开始时回复所有队友的生命值" cd="0" initCD="0" />
+  <AbilityDesc id="10025" name="精灵祝福" condition="" res="SpiritBuff" isPassive="1" attribute="0.5" message="增加自身的治疗效果，并且使自身给予的溢出治疗效果变成护盾" cd="0" initCD="0" />
+=======
+  <AbilityDesc id="10000" name="打击" res="Hit" isPassive="0" attribute="" message="对站位最前的一位敌人造成伤害" cd="0" initCD="0" />
+  <AbilityDesc id="10001" name="挥砍" res="Slash" isPassive="0" attribute="" message="对站位最前的竖排敌人造成伤害" cd="0" initCD="0" />
+  <AbilityDesc id="10002" name="射箭" res="Arrow" isPassive="0" attribute="" message="对站位最前的一位敌人造成伤害" cd="0" initCD="0" />
+  <AbilityDesc id="10003" name="火球" res="FireBall" isPassive="0" attribute="0.2|0.2|3" message="对站位最前的一位敌人造成伤害，并且有20%概率点燃敌人3回合" cd="0" initCD="0" />
+  <AbilityDesc id="10004" name="爪击" res="Claw" isPassive="0" attribute="0.2|1" message="对站位最前的一位敌人造成伤害，并且使敌人流血1回合" cd="0" initCD="0" />
+>>>>>>> 609bbe983ea706e17ce475795ad149ffb8a26915
+</AbilityConfig>

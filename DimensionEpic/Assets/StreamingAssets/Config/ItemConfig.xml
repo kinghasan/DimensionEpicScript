@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+    Weapon,//武器
+    Deputy,//副手
+    Head,//头部
+    Chest,//胸部
+    Foot,//脚部
+    Hand,//护手
+    Necklace,//项链
+    -Ornament1,//饰品栏1
+    -Ornament2,//饰品栏2 
+    -->
+<ItemConfig>
+<<<<<<< HEAD
+  <ItemDesc id="10001" name="剑" res="Sword" type="1" ability="10001" job="Brave|Paladin" quality="1" attribute="" message="一把剑" />
+  <ItemDesc id="10002" name="弓" res="Bow" type="1" ability="10002" job="Archer" quality="1" attribute="" message="一把弓" />
+  <ItemDesc id="10003" name="法杖" res="Staff" type="1" ability="10003" job="Master" quality="1" attribute="" message="一根法杖" />
+  <ItemDesc id="10004" name="盔甲" res="Armor" type="4" ability="" job="Brave|Paladin" quality="1" attribute="" message="一件盔甲" />
+  <ItemDesc id="10005" name="法衣" res="Vestment" type="4" ability="" job="Master" quality="1" attribute="" message="一件法衣" />
+  <ItemDesc id="10006" name="皮甲" res="LeatherNail" type="4" ability="" job="Archer" quality="1" attribute="" message="一件皮甲" />
+  <ItemDesc id="10007" name="头盔" res="Helmet" type="3" ability="" job="Brave|Paladin" quality="1" attribute="" message="一顶头盔" />
+  <ItemDesc id="10008" name="魔法帽" res="MagicHat" type="3" ability="" job="Master" quality="1" attribute="" message="一顶魔法帽" />
+  <ItemDesc id="10009" name="兜帽" res="Hood" type="3" ability="" job="Archer" quality="1" attribute="" message="一顶兜帽" />
+  <ItemDesc id="10010" name="铁靴" res="IronBoots" type="5" ability="" job="Brave|Paladin" quality="1" attribute="" message="一双铁靴" />
+  <ItemDesc id="10011" name="长袍" res="Robe" type="5" ability="" job="Master" quality="1" attribute="" message="一件长袍" />
+  <ItemDesc id="10012" name="皮裤" res="LeatherLeg" type="5" ability="" job="Archer" quality="1" attribute="" message="一件皮裤" />
+  <ItemDesc id="10013" name="铁护手" res="IronHand" type="6" ability="" job="Brave|Paladin" quality="1" attribute="" message="一双铁护手" />
+  <ItemDesc id="10014" name="魔法手套" res="MagicHand" type="6" ability="" job="Master" quality="1" attribute="" message="一双魔法手套" />
+  <ItemDesc id="10015" name="皮手套" res="LeatherHand" type="6" ability="" job="Archer" quality="1" attribute="" message="一双皮手套" />
+  <ItemDesc id="10016" name="力量项链" res="StrongNecklace" type="7" ability="10011|10012|10013" job="Brave|Paladin" quality="1" attribute="" message="一条红色项链" />
+  <ItemDesc id="10017" name="灵敏项链" res="AgileNecklace" type="7" ability="10011|10012|10013" job="Archer" quality="1" attribute="" message="一条绿色项链" />
+  <ItemDesc id="10018" name="魔法项链" res="MagicNecklace" type="7" ability="10011|10012|10013" job="Master" quality="1" attribute="" message="一条紫色项链" />
+  <ItemDesc id="10019" name="战锤" res="Hammer" type="1" ability="10004" job="Brave|Paladin" quality="1" attribute="" message="一柄战锤" />
+  <ItemDesc id="10020" name="匕首" res="Dagger" type="1" ability="10005" job="Archer" quality="1" attribute="" message="一把匕首" />
+  <ItemDesc id="10021" name="魔法书" res="Book" type="1" ability="10006" job="Master" quality="1" attribute="" message="一本魔法书" />
+  <ItemDesc id="10022" name="皇冠" res="Crown" type="3" ability="10021" job="Brave|Paladin" quality="4" attribute="hp:300|def:100" message="一顶皇冠" />
+  <ItemDesc id="10023" name="狼牙项链" res="WolfToothNecklace" type="7" ability="10022" job="Brave|Archer|Master" quality="4" attribute="atk:200|spd:15" message="一条狼牙项链" />
+  <ItemDesc id="10024" name="粘液法球" res="MucusBall" type="1" ability="10023" job="Master" quality="4" attribute="atk:300" message="一个粘液法球" />
+  <ItemDesc id="10025" name="生命种子" res="LifeSeed" type="7" ability="10024" job="Brave|Archer|Master" quality="4" attribute="Php:10" message="一颗生命种子" />
+  <ItemDesc id="10026" name="森林法杖" res="ForestStaff" type="1" ability="10019" job="Archer" quality="4" attribute="atk:300" message="一把森林法杖" />
+  <ItemDesc id="10027" name="精灵花环" res="SpiritWreath" type="3" ability="10025" job="Brave|Archer|Master" quality="4" attribute="Patk:5|spd:10" message="一顶精灵花环" />
+=======
+  <ItemDesc id="10001" name="剑" res="Sword" type="1" ability="10001" job="Brave|Paladin" quality="1" level="1" attribute="atk:10|hp:20" message="一把剑" />
+  <ItemDesc id="10002" name="弓" res="Bow" type="1" ability="10002" job="Archer" quality="1" level="1" attribute="atk:15|speed:5|hp:10" message="一把弓" />
+  <ItemDesc id="10003" name="法杖" res="Staff" type="1" ability="10003" job="Master" quality="1" level="1" attribute="atk:20|speed:0|hp:0" message="一根法杖" />
+  <ItemDesc id="10004" name="剑" res="Sword" type="1" ability="10001" job="Brave|Paladin" quality="1" level="5" attribute="atk:15|hp:30" message="一把剑" />
+  <ItemDesc id="10005" name="弓" res="Bow" type="1" ability="10002" job="Archer" quality="1" level="5" attribute="atk:25|speed:5|hp:10" message="一把弓" />
+  <ItemDesc id="10006" name="法杖" res="Staff" type="1" ability="10003" job="Master" quality="1" level="5" attribute="atk:30|speed:0|hp:0" message="一根法杖" />
+  <ItemDesc id="10007" name="斧头" res="Axe" type="1" ability="10004" job="Brave|Paladin" quality="1" level="5" attribute="atk:20|speed:-5|hp:20" message="一把斧头" />
+>>>>>>> 609bbe983ea706e17ce475795ad149ffb8a26915
+</ItemConfig>

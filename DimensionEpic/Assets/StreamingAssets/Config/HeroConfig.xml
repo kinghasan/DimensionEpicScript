@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HeroConfig>
+  <HeroDesc id="1" name="勇士" res="Brave" job="Brave" health="100" attack="20" speed="100" message="普普通通的勇士" />
+</HeroConfig>

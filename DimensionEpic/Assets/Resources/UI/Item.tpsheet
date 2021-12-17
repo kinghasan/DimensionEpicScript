@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:70f463cfa49d4c2ccf1ad30ea9fa8fe2:8de744e72c6540b5b125c40c8547328f:b54c7d9417a13991950f2909da376604$
+#
+:format=40300
+:texture=Item.png
+:size=64x512
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Axe;0;52;64;64; 0.5;0.5; 0;0;0;0
+Bow;0;118;64;64; 0.5;0.5; 0;0;0;0
+Fur;0;184;64;64; 0.5;0.5; 0;0;0;0
+Staff;0;250;64;64; 0.5;0.5; 0;0;0;0
+Stone;0;316;64;64; 0.5;0.5; 0;0;0;0
+Sword;0;382;64;64; 0.5;0.5; 0;0;0;0
+Wood;0;448;64;64; 0.5;0.5; 0;0;0;0

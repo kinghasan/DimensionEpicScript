@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuffConfig>
+  <BuffDesc id="10001" name="FireBall_Debuff" res="" attribute="range" value="0.2" time="3" />
+</BuffConfig>
